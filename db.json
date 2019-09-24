@@ -22,7 +22,20 @@
      "berita": {
         "title": "Berita & Artikel",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna",
-        "image": "sadfsadf"
+        "image": [
+            {
+                "type": "Berita",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed",
+            },
+            {
+                "type": "Artikel",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed",
+            },
+            {
+                "type": "Berita",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed",
+            }
+        ]
     }
    
 }
