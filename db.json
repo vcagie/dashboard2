@@ -1,7 +1,11 @@
 {
     "agenda": {
         "title": "Agenda",
-        "image": "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_960_720.jpg"   
+        "slider" : [
+            {
+                "title": "Astra 1st 2017",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "image": "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_960_720.jpg"   
             },
             {
                 "title": "Astra 1st 2018",
