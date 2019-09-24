@@ -1,11 +1,11 @@
 {
-     "agenda": {
-        "title": "Agenda",
+    "agenda": {
+        "title": "Agenda"
         
-    }, 
-     "berita": {
+    },
+    "berita": {
         "title": "Berita & Artikel",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
        
     }
 }
