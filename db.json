@@ -32,7 +32,7 @@
                 "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed"
             },
             {
-                "type": "Berita",
+                "type": "Berita", 
                 "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed"
             }
         ]
